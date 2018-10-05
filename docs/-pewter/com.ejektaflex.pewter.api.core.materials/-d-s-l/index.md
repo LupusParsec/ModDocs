@@ -4,11 +4,13 @@
 
 `open class DSL<T : `[`DSL`](./index.md)`<`[`T`](index.md#T)`>>`
 
+The base class for all Material DSLs.
+
 ### Constructors
 
 | Name | Summary |
 |---|---|
-| [&lt;init&gt;](-init-.md) | `DSL()` |
+| [&lt;init&gt;](-init-.md) | `DSL()`<br>The base class for all Material DSLs. |
 
 ### Inheritors
 

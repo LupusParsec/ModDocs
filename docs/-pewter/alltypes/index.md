@@ -5,12 +5,12 @@
 | Name | Summary |
 |---|---|
 | [com.ejektaflex.pewter.api.core.materials.stats.ArmorStats](../com.ejektaflex.pewter.api.core.materials.stats/-armor-stats/index.md) |  |
-| [com.ejektaflex.pewter.api.core.materials.DSL](../com.ejektaflex.pewter.api.core.materials/-d-s-l/index.md) |  |
+| [com.ejektaflex.pewter.api.core.materials.DSL](../com.ejektaflex.pewter.api.core.materials/-d-s-l/index.md) | The base class for all Material DSLs. |
 | [com.ejektaflex.pewter.api.core.EffectWrapper](../com.ejektaflex.pewter.api.core/-effect-wrapper/index.md) | This is a simple wrapper around an effect that allows you to store a reference to an effect without instantiating it. This is needed because these effects get registered into registries when they're instantiated. Multiple instantiations of a tool effect will then cause an error due to how they're implemented in TiC/ConArm. |
 | [com.ejektaflex.pewter.api.IPewterAPI](../com.ejektaflex.pewter.api/-i-pewter-a-p-i/index.md) | The Pewter API interface. All methods seen here are used by the API. |
 | [com.ejektaflex.pewter.api.core.modifiers.IPewterArmorModifier](../com.ejektaflex.pewter.api.core.modifiers/-i-pewter-armor-modifier.md) |  |
 | [com.ejektaflex.pewter.api.core.traits.IPewterArmorTrait](../com.ejektaflex.pewter.api.core.traits/-i-pewter-armor-trait.md) |  |
-| [com.ejektaflex.pewter.api.core.IPewterBaseEffect](../com.ejektaflex.pewter.api.core/-i-pewter-base-effect.md) |  |
+| [com.ejektaflex.pewter.api.core.IPewterBaseEffect](../com.ejektaflex.pewter.api.core/-i-pewter-base-effect.md) | A base interface from which all Pewter Tool/Armor Modifier/Traits come from. |
 | [com.ejektaflex.pewter.api.core.modifiers.IPewterModifier](../com.ejektaflex.pewter.api.core.modifiers/-i-pewter-modifier/index.md) |  |
 | [com.ejektaflex.pewter.api.core.modifiers.IPewterToolModifier](../com.ejektaflex.pewter.api.core.modifiers/-i-pewter-tool-modifier.md) |  |
 | [com.ejektaflex.pewter.api.core.traits.IPewterToolTrait](../com.ejektaflex.pewter.api.core.traits/-i-pewter-tool-trait.md) |  |
@@ -22,7 +22,7 @@
 | [com.ejektaflex.pewter.api.core.modifiers.PewterAccessory](../com.ejektaflex.pewter.api.core.modifiers/-pewter-accessory/index.md) |  |
 | [com.ejektaflex.pewter.api.core.modifiers.PewterArmorModifier](../com.ejektaflex.pewter.api.core.modifiers/-pewter-armor-modifier/index.md) | Extend this if you want to create a new armor modifier. |
 | [com.ejektaflex.pewter.api.core.traits.PewterArmorTrait](../com.ejektaflex.pewter.api.core.traits/-pewter-armor-trait/index.md) | Extend this if you want to create a new Armor trait. |
-| [com.ejektaflex.pewter.api.core.PewterModule](../com.ejektaflex.pewter.api.core/-pewter-module/index.md) |  |
+| [com.ejektaflex.pewter.api.core.PewterModule](../com.ejektaflex.pewter.api.core/-pewter-module/index.md) | A [PewterModule](../com.ejektaflex.pewter.api.core/-pewter-module/index.md) is a set of materials, tools and traits. [com.ejektaflex.pewter.api.PewterAPI.registerModule](#) will register this module so that Pewter can load it later on. |
 | [com.ejektaflex.pewter.api.core.traits.PewterProjectileTrait](../com.ejektaflex.pewter.api.core.traits/-pewter-projectile-trait/index.md) |  |
 | [com.ejektaflex.pewter.api.core.modifiers.PewterToolModifier](../com.ejektaflex.pewter.api.core.modifiers/-pewter-tool-modifier/index.md) | Extend this if you want to create a new tool modifier. |
 | [com.ejektaflex.pewter.api.core.traits.PewterToolTrait](../com.ejektaflex.pewter.api.core.traits/-pewter-tool-trait/index.md) |  |

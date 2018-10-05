@@ -4,6 +4,8 @@
 
 `interface IPewterBaseEffect : IModifier`
 
+A base interface from which all Pewter Tool/Armor Modifier/Traits come from.
+
 ### Inheritors
 
 | Name | Summary |

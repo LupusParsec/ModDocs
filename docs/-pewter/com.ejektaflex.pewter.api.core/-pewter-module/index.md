@@ -4,11 +4,15 @@
 
 `abstract class PewterModule`
 
+A [PewterModule](./index.md) is a set of materials, tools and traits.
+[com.ejektaflex.pewter.api.PewterAPI.registerModule](#) will register this
+module so that Pewter can load it later on.
+
 ### Constructors
 
 | Name | Summary |
 |---|---|
-| [&lt;init&gt;](-init-.md) | `PewterModule()` |
+| [&lt;init&gt;](-init-.md) | `PewterModule()`<br>A [PewterModule](./index.md) is a set of materials, tools and traits. [com.ejektaflex.pewter.api.PewterAPI.registerModule](#) will register this module so that Pewter can load it later on. |
 
 ### Properties
 
@@ -25,4 +29,4 @@
 
 | Name | Summary |
 |---|---|
-| [hasMetDependencies](has-met-dependencies.md) | `open fun hasMetDependencies(): `[`Boolean`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)<br>Here you can define the conditions that determine whether or not the module should load. |
+| [hasMetDependencies](has-met-dependencies.md) | `open fun hasMetDependencies(): `[`Boolean`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)<br>Here you can define the conditions that determine whether or not the module should load. By default, it checks whether there is a mod with the same ID as the module ID to determine whether it should load. |

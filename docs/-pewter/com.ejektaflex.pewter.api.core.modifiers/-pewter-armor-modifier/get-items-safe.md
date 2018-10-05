@@ -6,3 +6,6 @@
 
 Overrides [IPewterModifier.getItemsSafe](../-i-pewter-modifier/get-items-safe.md)
 
+[getItems](#) may throw an exception if no items have been specified. This
+method retrieves all of the items safely.
+

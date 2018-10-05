@@ -6,3 +6,10 @@
 
 Extend this if you want to create a new armor modifier.
 
+### Parameters
+
+`name` - The unique identifier for this modifier.
+
+`color` - The color of this modifier. Usually specified in hex (0x44AA77)
+
+`The` - max level of the armor modifier

@@ -6,3 +6,5 @@
 
 Overrides [IPewterModifier.safeAdd](../-i-pewter-modifier/safe-add.md)
 
+Safely adds an [ItemStack](#) with which we can create the modifier.
+

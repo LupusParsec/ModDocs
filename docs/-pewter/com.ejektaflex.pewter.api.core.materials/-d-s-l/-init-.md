@@ -3,3 +3,6 @@
 # &lt;init&gt;
 
 `DSL()`
+
+The base class for all Material DSLs.
+
