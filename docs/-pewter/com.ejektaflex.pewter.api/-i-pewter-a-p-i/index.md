@@ -4,10 +4,7 @@
 
 `interface IPewterAPI`
 
-All calls to the Pewter API should be done before Pewter loads PreInit.
-This is because Pewter registers which content to load in PreInit.
-Make sure your mod is required before Pewter. If using Construct's Armory,
-make sure your mod is required after that.
+The Pewter API interface. All methods seen here are used by the API.
 
 ### Functions
 
@@ -27,4 +24,4 @@ make sure your mod is required after that.
 
 | Name | Summary |
 |---|---|
-| [PewterAPIProvider](../-pewter-a-p-i-provider/index.md) | `open class PewterAPIProvider : `[`IPewterAPI`](./index.md) |
+| [PewterAPIProvider](../-pewter-a-p-i-provider/index.md) | `open class PewterAPIProvider : `[`IPewterAPI`](./index.md)<br>[PewterAPIProvider](../-pewter-a-p-i-provider/index.md) is a wrapper around an empty instance of the Pewter API. At the time of mod construction, it gets replaced by Pewter's internal API implementation. |

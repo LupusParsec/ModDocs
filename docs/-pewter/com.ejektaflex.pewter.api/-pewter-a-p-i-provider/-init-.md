@@ -3,3 +3,8 @@
 # &lt;init&gt;
 
 `PewterAPIProvider()`
+
+[PewterAPIProvider](index.md) is a wrapper around an empty instance of the Pewter API.
+At the time of mod construction, it gets replaced by Pewter's internal API
+implementation.
+

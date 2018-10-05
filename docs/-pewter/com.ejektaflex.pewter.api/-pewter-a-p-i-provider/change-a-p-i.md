@@ -3,3 +3,9 @@
 # changeAPI
 
 `fun changeAPI(newAPI: `[`IPewterAPI`](../-i-pewter-a-p-i/index.md)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)
+
+Used to change the PewterAPI implementation.
+
+### Parameters
+
+`newAPI` - The new API implementation to use.

@@ -3,3 +3,6 @@
 # material
 
 `val material: `[`MaterialData`](../../com.ejektaflex.pewter.api.core.materials.stats/-material-data/index.md)
+
+The underlying data that is being changed by the DSL
+

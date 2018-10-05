@@ -6,6 +6,6 @@
 
 | Name | Summary |
 |---|---|
-| [IPewterAPI](-i-pewter-a-p-i/index.md) | `interface IPewterAPI`<br>All calls to the Pewter API should be done before Pewter loads PreInit. This is because Pewter registers which content to load in PreInit. Make sure your mod is required before Pewter. If using Construct's Armory, make sure your mod is required after that. |
-| [PewterAPI](-pewter-a-p-i.md) | `object PewterAPI : `[`PewterAPIProvider`](-pewter-a-p-i-provider/index.md) |
-| [PewterAPIProvider](-pewter-a-p-i-provider/index.md) | `open class PewterAPIProvider : `[`IPewterAPI`](-i-pewter-a-p-i/index.md) |
+| [IPewterAPI](-i-pewter-a-p-i/index.md) | `interface IPewterAPI`<br>The Pewter API interface. All methods seen here are used by the API. |
+| [PewterAPI](-pewter-a-p-i.md) | `object PewterAPI : `[`PewterAPIProvider`](-pewter-a-p-i-provider/index.md)<br>The primary API object. It inherits all methods from [IPewterAPI](-i-pewter-a-p-i/index.md). All calls to the API should be done on this object. |
+| [PewterAPIProvider](-pewter-a-p-i-provider/index.md) | `open class PewterAPIProvider : `[`IPewterAPI`](-i-pewter-a-p-i/index.md)<br>[PewterAPIProvider](-pewter-a-p-i-provider/index.md) is a wrapper around an empty instance of the Pewter API. At the time of mod construction, it gets replaced by Pewter's internal API implementation. |

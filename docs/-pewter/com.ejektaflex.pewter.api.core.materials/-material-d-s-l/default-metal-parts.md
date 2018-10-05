@@ -3,3 +3,7 @@
 # defaultMetalParts
 
 `fun defaultMetalParts(): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)
+
+Adds the parts that can be used to the defaults available for a
+standard metal tool.
+
