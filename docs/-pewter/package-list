@@ -1,0 +1,9 @@
+$dokka.format:gfm
+$dokka.linkExtension:md
+
+com.ejektaflex.pewter.api
+com.ejektaflex.pewter.api.core
+com.ejektaflex.pewter.api.core.materials
+com.ejektaflex.pewter.api.core.materials.stats
+com.ejektaflex.pewter.api.core.modifiers
+com.ejektaflex.pewter.api.core.traits
