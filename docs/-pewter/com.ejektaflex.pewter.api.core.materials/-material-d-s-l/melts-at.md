@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.materials](../index.md) / [MaterialDSL](index.md) / [meltsAt](./melts-at.md)
+---
+title: MaterialDSL.meltsAt - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.materials](../index.html) / [MaterialDSL](index.html) / [meltsAt](./melts-at.html)
 
 # meltsAt
 

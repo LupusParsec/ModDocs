@@ -1,18 +1,19 @@
-[Pewter](../../../../index.md) / [com.ejektaflex.pewter.api.core.materials](../../../index.md) / [MaterialDSL](../../index.md) / [ArmorCreator](../index.md) / [CoreCreator](./index.md)
+---
+title: MaterialDSL.ArmorCreator.CoreCreator - Pewter
+---
+
+[Pewter](../../../../index.html) / [com.ejektaflex.pewter.api.core.materials](../../../index.html) / [MaterialDSL](../../index.html) / [ArmorCreator](../index.html) / [CoreCreator](./index.html)
 
 # CoreCreator
 
-`inner class CoreCreator : `[`DSL`](../../../-d-s-l/index.md)`<`[`CoreCreator`](./index.md)`>`
+`inner class CoreCreator : `[`DSL`](../../../-d-s-l/index.html)`<`[`CoreCreator`](./index.html)`>`
 
 ### Constructors
 
-| Name | Summary |
-|---|---|
-| [&lt;init&gt;](-init-.md) | `CoreCreator()` |
+| [&lt;init&gt;](-init-.html) | `CoreCreator()` |
 
 ### Functions
 
-| Name | Summary |
-|---|---|
-| [defense](defense.md) | `fun defense(func: () -> `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
-| [durability](durability.md) | `fun durability(func: () -> `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [defense](defense.html) | `fun defense(func: () -> `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [durability](durability.html) | `fun durability(func: () -> `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+

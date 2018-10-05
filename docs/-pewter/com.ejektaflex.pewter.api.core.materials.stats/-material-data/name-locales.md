@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.materials.stats](../index.md) / [MaterialData](index.md) / [nameLocales](./name-locales.md)
+---
+title: MaterialData.nameLocales - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.materials.stats](../index.html) / [MaterialData](index.html) / [nameLocales](./name-locales.html)
 
 # nameLocales
 

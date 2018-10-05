@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.traits](../index.md) / [PewterArmorTrait](index.md) / [armorSetStats](./armor-set-stats.md)
+---
+title: PewterArmorTrait.armorSetStats - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.traits](../index.html) / [PewterArmorTrait](index.html) / [armorSetStats](./armor-set-stats.html)
 
 # armorSetStats
 

@@ -1,20 +1,21 @@
-[Pewter](../../../../index.md) / [com.ejektaflex.pewter.api.core.materials](../../../index.md) / [MaterialDSL](../../index.md) / [ToolCreator](../index.md) / [HeadCreator](./index.md)
+---
+title: MaterialDSL.ToolCreator.HeadCreator - Pewter
+---
+
+[Pewter](../../../../index.html) / [com.ejektaflex.pewter.api.core.materials](../../../index.html) / [MaterialDSL](../../index.html) / [ToolCreator](../index.html) / [HeadCreator](./index.html)
 
 # HeadCreator
 
-`inner class HeadCreator : `[`DSL`](../../../-d-s-l/index.md)`<`[`HeadCreator`](./index.md)`>`
+`inner class HeadCreator : `[`DSL`](../../../-d-s-l/index.html)`<`[`HeadCreator`](./index.html)`>`
 
 ### Constructors
 
-| Name | Summary |
-|---|---|
-| [&lt;init&gt;](-init-.md) | `HeadCreator()` |
+| [&lt;init&gt;](-init-.html) | `HeadCreator()` |
 
 ### Functions
 
-| Name | Summary |
-|---|---|
-| [attack](attack.md) | `fun attack(func: () -> `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
-| [durability](durability.md) | `fun durability(func: () -> `[`Int`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
-| [harvestLevel](harvest-level.md) | `fun harvestLevel(n: `[`Int`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
-| [speed](speed.md) | `fun speed(func: () -> `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [attack](attack.html) | `fun attack(func: () -> `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [durability](durability.html) | `fun durability(func: () -> `[`Int`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [harvestLevel](harvest-level.html) | `fun harvestLevel(n: `[`Int`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [speed](speed.html) | `fun speed(func: () -> `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+

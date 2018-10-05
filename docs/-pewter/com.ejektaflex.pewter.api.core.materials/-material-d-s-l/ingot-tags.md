@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.materials](../index.md) / [MaterialDSL](index.md) / [ingotTags](./ingot-tags.md)
+---
+title: MaterialDSL.ingotTags - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.materials](../index.html) / [MaterialDSL](index.html) / [ingotTags](./ingot-tags.html)
 
 # ingotTags
 

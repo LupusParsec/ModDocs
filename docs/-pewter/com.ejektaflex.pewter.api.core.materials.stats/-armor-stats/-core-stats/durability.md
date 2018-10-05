@@ -1,4 +1,8 @@
-[Pewter](../../../index.md) / [com.ejektaflex.pewter.api.core.materials.stats](../../index.md) / [ArmorStats](../index.md) / [CoreStats](index.md) / [durability](./durability.md)
+---
+title: ArmorStats.CoreStats.durability - Pewter
+---
+
+[Pewter](../../../index.html) / [com.ejektaflex.pewter.api.core.materials.stats](../../index.html) / [ArmorStats](../index.html) / [CoreStats](index.html) / [durability](./durability.html)
 
 # durability
 

@@ -1,4 +1,8 @@
-[Pewter](../../../index.md) / [com.ejektaflex.pewter.api.core.materials.stats](../../index.md) / [MaterialData](../index.md) / [MatPart](index.md) / [BOW](./-b-o-w.md)
+---
+title: MaterialData.MatPart.BOW - Pewter
+---
+
+[Pewter](../../../index.html) / [com.ejektaflex.pewter.api.core.materials.stats](../../index.html) / [MaterialData](../index.html) / [MatPart](index.html) / [BOW](./-b-o-w.html)
 
 # BOW
 
@@ -6,8 +10,7 @@
 
 ### Inherited Properties
 
-| Name | Summary |
-|---|---|
-| [dependency](dependency.md) | `val dependency: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
-| [partType](part-type.md) | `val partType: `[`PartType`](../-part-type/index.md) |
-| [stats](stats.md) | `val stats: (it: `[`MaterialData`](../index.md)`) -> IMaterialStats?` |
+| [dependency](dependency.html) | `val dependency: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html) |
+| [partType](part-type.html) | `val partType: `[`PartType`](../-part-type/index.html) |
+| [stats](stats.html) | `val stats: (it: `[`MaterialData`](../index.html)`) -> IMaterialStats?` |
+

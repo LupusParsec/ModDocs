@@ -1,4 +1,8 @@
-[Pewter](../../../index.md) / [com.ejektaflex.pewter.api.core.materials.stats](../../index.md) / [ToolStats](../index.md) / [BowStats](./index.md)
+---
+title: ToolStats.BowStats - Pewter
+---
+
+[Pewter](../../../index.html) / [com.ejektaflex.pewter.api.core.materials.stats](../../index.html) / [ToolStats](../index.html) / [BowStats](./index.html)
 
 # BowStats
 
@@ -6,14 +10,11 @@
 
 ### Constructors
 
-| Name | Summary |
-|---|---|
-| [&lt;init&gt;](-init-.md) | `BowStats(speed: `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html)` = 0f, range: `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html)` = 0f, bonusDamage: `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html)` = 0f)` |
+| [&lt;init&gt;](-init-.html) | `BowStats(speed: `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html)` = 0f, range: `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html)` = 0f, bonusDamage: `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html)` = 0f)` |
 
 ### Properties
 
-| Name | Summary |
-|---|---|
-| [bonusDamage](bonus-damage.md) | `var bonusDamage: `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html) |
-| [range](range.md) | `var range: `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html) |
-| [speed](speed.md) | `var speed: `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html) |
+| [bonusDamage](bonus-damage.html) | `var bonusDamage: `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html) |
+| [range](range.html) | `var range: `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html) |
+| [speed](speed.html) | `var speed: `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html) |
+

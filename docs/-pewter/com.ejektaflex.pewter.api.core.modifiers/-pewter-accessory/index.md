@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.modifiers](../index.md) / [PewterAccessory](./index.md)
+---
+title: PewterAccessory - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.modifiers](../index.html) / [PewterAccessory](./index.html)
 
 # PewterAccessory
 
@@ -6,6 +10,5 @@
 
 ### Constructors
 
-| Name | Summary |
-|---|---|
-| [&lt;init&gt;](-init-.md) | `PewterAccessory()` |
+| [&lt;init&gt;](-init-.html) | `PewterAccessory()` |
+

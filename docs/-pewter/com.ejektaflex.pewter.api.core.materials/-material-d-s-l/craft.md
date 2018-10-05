@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.materials](../index.md) / [MaterialDSL](index.md) / [craft](./craft.md)
+---
+title: MaterialDSL.craft - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.materials](../index.html) / [MaterialDSL](index.html) / [craft](./craft.html)
 
 # craft
 

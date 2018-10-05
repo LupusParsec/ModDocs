@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.materials](../index.md) / [MaterialDSL](index.md) / [ingots](./ingots.md)
+---
+title: MaterialDSL.ingots - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.materials](../index.html) / [MaterialDSL](index.html) / [ingots](./ingots.html)
 
 # ingots
 

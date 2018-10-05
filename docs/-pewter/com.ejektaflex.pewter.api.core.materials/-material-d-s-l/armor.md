@@ -1,5 +1,9 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.materials](../index.md) / [MaterialDSL](index.md) / [armor](./armor.md)
+---
+title: MaterialDSL.armor - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.materials](../index.html) / [MaterialDSL](index.html) / [armor](./armor.html)
 
 # armor
 
-`fun armor(func: `[`ArmorCreator`](-armor-creator/index.md)`.() -> `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)
+`fun armor(func: `[`ArmorCreator`](-armor-creator/index.html)`.() -> `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)

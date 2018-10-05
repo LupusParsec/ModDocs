@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.materials.stats](../index.md) / [MaterialData](index.md) / [fluidNames](./fluid-names.md)
+---
+title: MaterialData.fluidNames - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.materials.stats](../index.html) / [MaterialData](index.html) / [fluidNames](./fluid-names.html)
 
 # fluidNames
 

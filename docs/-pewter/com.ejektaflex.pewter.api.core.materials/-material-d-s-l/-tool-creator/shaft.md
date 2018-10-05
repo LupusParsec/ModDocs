@@ -1,5 +1,9 @@
-[Pewter](../../../index.md) / [com.ejektaflex.pewter.api.core.materials](../../index.md) / [MaterialDSL](../index.md) / [ToolCreator](index.md) / [shaft](./shaft.md)
+---
+title: MaterialDSL.ToolCreator.shaft - Pewter
+---
+
+[Pewter](../../../index.html) / [com.ejektaflex.pewter.api.core.materials](../../index.html) / [MaterialDSL](../index.html) / [ToolCreator](index.html) / [shaft](./shaft.html)
 
 # shaft
 
-`fun shaft(func: `[`ShaftCreator`](-shaft-creator/index.md)`.() -> `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)
+`fun shaft(func: `[`ShaftCreator`](-shaft-creator/index.html)`.() -> `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)

@@ -1,4 +1,8 @@
-[Pewter](../../../index.md) / [com.ejektaflex.pewter.api.core.materials.stats](../../index.md) / [ToolStats](../index.md) / [BowStats](index.md) / [speed](./speed.md)
+---
+title: ToolStats.BowStats.speed - Pewter
+---
+
+[Pewter](../../../index.html) / [com.ejektaflex.pewter.api.core.materials.stats](../../index.html) / [ToolStats](../index.html) / [BowStats](index.html) / [speed](./speed.html)
 
 # speed
 

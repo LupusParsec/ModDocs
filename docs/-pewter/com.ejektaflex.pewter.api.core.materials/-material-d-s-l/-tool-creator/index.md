@@ -1,32 +1,31 @@
-[Pewter](../../../index.md) / [com.ejektaflex.pewter.api.core.materials](../../index.md) / [MaterialDSL](../index.md) / [ToolCreator](./index.md)
+---
+title: MaterialDSL.ToolCreator - Pewter
+---
+
+[Pewter](../../../index.html) / [com.ejektaflex.pewter.api.core.materials](../../index.html) / [MaterialDSL](../index.html) / [ToolCreator](./index.html)
 
 # ToolCreator
 
-`inner class ToolCreator : `[`DSL`](../../-d-s-l/index.md)`<`[`ToolCreator`](./index.md)`>`
+`inner class ToolCreator : `[`DSL`](../../-d-s-l/index.html)`<`[`ToolCreator`](./index.html)`>`
 
 ### Types
 
-| Name | Summary |
-|---|---|
-| [BowCreator](-bow-creator/index.md) | `inner class BowCreator : `[`DSL`](../../-d-s-l/index.md)`<`[`BowCreator`](-bow-creator/index.md)`>` |
-| [ExtraCreator](-extra-creator/index.md) | `inner class ExtraCreator : `[`DSL`](../../-d-s-l/index.md)`<`[`ExtraCreator`](-extra-creator/index.md)`>` |
-| [HandleCreator](-handle-creator/index.md) | `inner class HandleCreator : `[`DSL`](../../-d-s-l/index.md)`<`[`HandleCreator`](-handle-creator/index.md)`>` |
-| [HeadCreator](-head-creator/index.md) | `inner class HeadCreator : `[`DSL`](../../-d-s-l/index.md)`<`[`HeadCreator`](-head-creator/index.md)`>` |
-| [ShaftCreator](-shaft-creator/index.md) | `inner class ShaftCreator : `[`DSL`](../../-d-s-l/index.md)`<`[`ShaftCreator`](-shaft-creator/index.md)`>` |
+| [BowCreator](-bow-creator/index.html) | `inner class BowCreator : `[`DSL`](../../-d-s-l/index.html)`<`[`BowCreator`](-bow-creator/index.html)`>` |
+| [ExtraCreator](-extra-creator/index.html) | `inner class ExtraCreator : `[`DSL`](../../-d-s-l/index.html)`<`[`ExtraCreator`](-extra-creator/index.html)`>` |
+| [HandleCreator](-handle-creator/index.html) | `inner class HandleCreator : `[`DSL`](../../-d-s-l/index.html)`<`[`HandleCreator`](-handle-creator/index.html)`>` |
+| [HeadCreator](-head-creator/index.html) | `inner class HeadCreator : `[`DSL`](../../-d-s-l/index.html)`<`[`HeadCreator`](-head-creator/index.html)`>` |
+| [ShaftCreator](-shaft-creator/index.html) | `inner class ShaftCreator : `[`DSL`](../../-d-s-l/index.html)`<`[`ShaftCreator`](-shaft-creator/index.html)`>` |
 
 ### Constructors
 
-| Name | Summary |
-|---|---|
-| [&lt;init&gt;](-init-.md) | `ToolCreator()` |
+| [&lt;init&gt;](-init-.html) | `ToolCreator()` |
 
 ### Functions
 
-| Name | Summary |
-|---|---|
-| [bow](bow.md) | `fun bow(func: `[`BowCreator`](-bow-creator/index.md)`.() -> `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
-| [extra](extra.md) | `fun extra(func: `[`ExtraCreator`](-extra-creator/index.md)`.() -> `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
-| [handle](handle.md) | `fun handle(func: `[`HandleCreator`](-handle-creator/index.md)`.() -> `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
-| [head](head.md) | `fun head(func: `[`HeadCreator`](-head-creator/index.md)`.() -> `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
-| [shaft](shaft.md) | `fun shaft(func: `[`ShaftCreator`](-shaft-creator/index.md)`.() -> `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
-| [toolTrait](tool-trait.md) | `fun toolTrait(traitName: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [bow](bow.html) | `fun bow(func: `[`BowCreator`](-bow-creator/index.html)`.() -> `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [extra](extra.html) | `fun extra(func: `[`ExtraCreator`](-extra-creator/index.html)`.() -> `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [handle](handle.html) | `fun handle(func: `[`HandleCreator`](-handle-creator/index.html)`.() -> `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [head](head.html) | `fun head(func: `[`HeadCreator`](-head-creator/index.html)`.() -> `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [shaft](shaft.html) | `fun shaft(func: `[`ShaftCreator`](-shaft-creator/index.html)`.() -> `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [toolTrait](tool-trait.html) | `fun toolTrait(traitName: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+

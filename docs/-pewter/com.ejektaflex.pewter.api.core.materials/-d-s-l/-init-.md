@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.materials](../index.md) / [DSL](index.md) / [&lt;init&gt;](./-init-.md)
+---
+title: DSL.<init> - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.materials](../index.html) / [DSL](index.html) / [&lt;init&gt;](./-init-.html)
 
 # &lt;init&gt;
 

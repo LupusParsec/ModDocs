@@ -1,5 +1,9 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core](../index.md) / [EffectWrapper](index.md) / [create](./create.md)
+---
+title: EffectWrapper.create - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core](../index.html) / [EffectWrapper](index.html) / [create](./create.html)
 
 # create
 
-`fun create(): `[`T`](index.md#T)
+`fun create(): `[`T`](index.html#T)

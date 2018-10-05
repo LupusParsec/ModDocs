@@ -1,4 +1,8 @@
-[Pewter](../../../../index.md) / [com.ejektaflex.pewter.api.core.materials](../../../index.md) / [MaterialDSL](../../index.md) / [ArmorCreator](../index.md) / [PlatesCreator](index.md) / [durability](./durability.md)
+---
+title: MaterialDSL.ArmorCreator.PlatesCreator.durability - Pewter
+---
+
+[Pewter](../../../../index.html) / [com.ejektaflex.pewter.api.core.materials](../../../index.html) / [MaterialDSL](../../index.html) / [ArmorCreator](../index.html) / [PlatesCreator](index.html) / [durability](./durability.html)
 
 # durability
 

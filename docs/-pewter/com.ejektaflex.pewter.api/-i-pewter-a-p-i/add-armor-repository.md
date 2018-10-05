@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api](../index.md) / [IPewterAPI](index.md) / [addArmorRepository](./add-armor-repository.md)
+---
+title: IPewterAPI.addArmorRepository - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api](../index.html) / [IPewterAPI](index.html) / [addArmorRepository](./add-armor-repository.html)
 
 # addArmorRepository
 

@@ -1,5 +1,9 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.materials.stats](../index.md) / [ToolStats](index.md) / [handle](./handle.md)
+---
+title: ToolStats.handle - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.materials.stats](../index.html) / [ToolStats](index.html) / [handle](./handle.html)
 
 # handle
 
-`val handle: `[`HandleStats`](-handle-stats/index.md)
+`val handle: `[`HandleStats`](-handle-stats/index.html)

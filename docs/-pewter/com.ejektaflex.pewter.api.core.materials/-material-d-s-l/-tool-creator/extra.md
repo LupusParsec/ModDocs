@@ -1,5 +1,9 @@
-[Pewter](../../../index.md) / [com.ejektaflex.pewter.api.core.materials](../../index.md) / [MaterialDSL](../index.md) / [ToolCreator](index.md) / [extra](./extra.md)
+---
+title: MaterialDSL.ToolCreator.extra - Pewter
+---
+
+[Pewter](../../../index.html) / [com.ejektaflex.pewter.api.core.materials](../../index.html) / [MaterialDSL](../index.html) / [ToolCreator](index.html) / [extra](./extra.html)
 
 # extra
 
-`fun extra(func: `[`ExtraCreator`](-extra-creator/index.md)`.() -> `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)
+`fun extra(func: `[`ExtraCreator`](-extra-creator/index.html)`.() -> `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)

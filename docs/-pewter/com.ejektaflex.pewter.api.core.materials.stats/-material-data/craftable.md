@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.materials.stats](../index.md) / [MaterialData](index.md) / [craftable](./craftable.md)
+---
+title: MaterialData.craftable - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.materials.stats](../index.html) / [MaterialData](index.html) / [craftable](./craftable.html)
 
 # craftable
 

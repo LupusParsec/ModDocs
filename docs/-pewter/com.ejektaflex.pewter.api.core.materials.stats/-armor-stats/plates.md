@@ -1,5 +1,9 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.materials.stats](../index.md) / [ArmorStats](index.md) / [plates](./plates.md)
+---
+title: ArmorStats.plates - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.materials.stats](../index.html) / [ArmorStats](index.html) / [plates](./plates.html)
 
 # plates
 
-`val plates: `[`PlatesStats`](-plates-stats/index.md)
+`val plates: `[`PlatesStats`](-plates-stats/index.html)

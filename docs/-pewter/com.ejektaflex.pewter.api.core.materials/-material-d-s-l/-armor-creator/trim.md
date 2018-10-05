@@ -1,5 +1,9 @@
-[Pewter](../../../index.md) / [com.ejektaflex.pewter.api.core.materials](../../index.md) / [MaterialDSL](../index.md) / [ArmorCreator](index.md) / [trim](./trim.md)
+---
+title: MaterialDSL.ArmorCreator.trim - Pewter
+---
+
+[Pewter](../../../index.html) / [com.ejektaflex.pewter.api.core.materials](../../index.html) / [MaterialDSL](../index.html) / [ArmorCreator](index.html) / [trim](./trim.html)
 
 # trim
 
-`fun trim(func: `[`TrimCreator`](-trim-creator/index.md)`.() -> `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)
+`fun trim(func: `[`TrimCreator`](-trim-creator/index.html)`.() -> `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)

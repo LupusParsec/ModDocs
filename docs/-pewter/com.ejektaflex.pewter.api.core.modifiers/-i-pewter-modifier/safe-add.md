@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.modifiers](../index.md) / [IPewterModifier](index.md) / [safeAdd](./safe-add.md)
+---
+title: IPewterModifier.safeAdd - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.modifiers](../index.html) / [IPewterModifier](index.html) / [safeAdd](./safe-add.html)
 
 # safeAdd
 

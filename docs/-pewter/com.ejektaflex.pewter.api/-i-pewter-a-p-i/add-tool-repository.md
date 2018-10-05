@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api](../index.md) / [IPewterAPI](index.md) / [addToolRepository](./add-tool-repository.md)
+---
+title: IPewterAPI.addToolRepository - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api](../index.html) / [IPewterAPI](index.html) / [addToolRepository](./add-tool-repository.html)
 
 # addToolRepository
 

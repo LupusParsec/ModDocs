@@ -1,62 +1,57 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.materials](../index.md) / [MaterialDSL](./index.md)
+---
+title: MaterialDSL - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.materials](../index.html) / [MaterialDSL](./index.html)
 
 # MaterialDSL
 
-`abstract class MaterialDSL : `[`DSL`](../-d-s-l/index.md)`<`[`MaterialDSL`](./index.md)`>`
+`abstract class MaterialDSL : `[`DSL`](../-d-s-l/index.html)`<`[`MaterialDSL`](./index.html)`>`
 
 A Kotlin DSL that describes a Tinkers' Construct Material. Used as a proxy
 for configuring materials more easily.
 
 ### Types
 
-| Name | Summary |
-|---|---|
-| [ArmorCreator](-armor-creator/index.md) | `inner class ArmorCreator : `[`DSL`](../-d-s-l/index.md)`<`[`ArmorCreator`](-armor-creator/index.md)`>` |
-| [ToolCreator](-tool-creator/index.md) | `inner class ToolCreator : `[`DSL`](../-d-s-l/index.md)`<`[`ToolCreator`](-tool-creator/index.md)`>` |
+| [ArmorCreator](-armor-creator/index.html) | `inner class ArmorCreator : `[`DSL`](../-d-s-l/index.html)`<`[`ArmorCreator`](-armor-creator/index.html)`>` |
+| [ToolCreator](-tool-creator/index.html) | `inner class ToolCreator : `[`DSL`](../-d-s-l/index.html)`<`[`ToolCreator`](-tool-creator/index.html)`>` |
 
 ### Annotations
 
-| Name | Summary |
-|---|---|
-| [NestedDSL](-nested-d-s-l/index.md) | `annotation class NestedDSL` |
-| [TopLevelToolDSL](-top-level-tool-d-s-l/index.md) | `annotation class TopLevelToolDSL` |
+| [NestedDSL](-nested-d-s-l/index.html) | `annotation class NestedDSL` |
+| [TopLevelToolDSL](-top-level-tool-d-s-l/index.html) | `annotation class TopLevelToolDSL` |
 
 ### Constructors
 
-| Name | Summary |
-|---|---|
-| [&lt;init&gt;](-init-.md) | `MaterialDSL(initName: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`, initColor: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`, initFunc: `[`MaterialDSL`](./index.md)`.() -> `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)`)`<br>A Kotlin DSL that describes a Tinkers' Construct Material. Used as a proxy for configuring materials more easily. |
+| [&lt;init&gt;](-init-.html) | `MaterialDSL(initName: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`, initColor: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`, initFunc: `[`MaterialDSL`](./index.html)`.() -> `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)`)`<br>A Kotlin DSL that describes a Tinkers' Construct Material. Used as a proxy for configuring materials more easily. |
 
 ### Properties
 
-| Name | Summary |
-|---|---|
-| [material](material.md) | `val material: `[`MaterialData`](../../com.ejektaflex.pewter.api.core.materials.stats/-material-data/index.md)<br>The underlying data that is being changed by the DSL |
+| [material](material.html) | `val material: `[`MaterialData`](../../com.ejektaflex.pewter.api.core.materials.stats/-material-data/index.html)<br>The underlying data that is being changed by the DSL |
 
 ### Functions
 
-| Name | Summary |
-|---|---|
-| [addTraits](add-traits.md) | `fun addTraits(vararg pairs: `[`Pair`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-pair/index.html)`<`[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`, `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`>): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)<br>Adds a trait to a certain tool part. The first section of the pair is the name of the [MaterialData.MatPart](../../com.ejektaflex.pewter.api.core.materials.stats/-material-data/-mat-part/index.md), and the second section is the trait identifier. |
-| [allTags](all-tags.md) | `fun allTags(vararg tags: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
-| [armor](armor.md) | `fun armor(func: `[`ArmorCreator`](-armor-creator/index.md)`.() -> `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
-| [armorParts](armor-parts.md) | `fun armorParts(): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)<br>Adds all armor parts to the list of parts that can be made from this material. |
-| [blockTags](block-tags.md) | `fun blockTags(vararg blo: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
-| [blocks](blocks.md) | `fun blocks(vararg blo: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
-| [brightness](brightness.md) | `fun brightness(f: `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)<br>Determines the brightness of the autogenerated material texture |
-| [craft](craft.md) | `fun craft(func: () -> `[`Boolean`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
-| [defaultMetalParts](default-metal-parts.md) | `fun defaultMetalParts(): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)<br>Adds the parts that can be used to the defaults available for a standard metal tool. |
-| [fluids](fluids.md) | `fun fluids(vararg flu: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
-| [forge](forge.md) | `fun forge(func: () -> `[`Boolean`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
-| [ingotTags](ingot-tags.md) | `fun ingotTags(vararg ing: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)<br>Specifies some [OreDictionary](#) tags with which all items with the tag can be used to make this material, with the approx. worth of an ingot. |
-| [ingots](ingots.md) | `fun ingots(vararg ing: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)<br>Allows the material to be created from some items, worth roughly the same as an ingot. |
-| [locale](locale.md) | `fun locale(vararg pairs: `[`Pair`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-pair/index.html)`<`[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`, `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`>): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
-| [meltsAt](melts-at.md) | `fun meltsAt(n: `[`Int`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)<br>Determines a custom melting point for the material. |
-| [noMeltRecipes](no-melt-recipes.md) | `fun noMeltRecipes(): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)<br>Disables melting recipes for this material. |
-| [nuggetTags](nugget-tags.md) | `fun nuggetTags(vararg blo: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
-| [nuggets](nuggets.md) | `fun nuggets(vararg blo: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
-| [oreTags](ore-tags.md) | `fun oreTags(vararg blo: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
-| [ores](ores.md) | `fun ores(vararg blo: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
-| [parts](parts.md) | `fun parts(vararg someParts: `[`MatPart`](../../com.ejektaflex.pewter.api.core.materials.stats/-material-data/-mat-part/index.md)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)<br>Used to determine which [parts](../../com.ejektaflex.pewter.api.core.materials.stats/-material-data/-mat-part/index.md) can be created with this material. |
-| [shininess](shininess.md) | `fun shininess(f: `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)<br>Determines the shininess (contrast) of the auto-gen material texture |
-| [tool](tool.md) | `fun tool(func: `[`ToolCreator`](-tool-creator/index.md)`.() -> `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [addTraits](add-traits.html) | `fun addTraits(vararg pairs: `[`Pair`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-pair/index.html)`<`[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`, `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`>): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)<br>Adds a trait to a certain tool part. The first section of the pair is the name of the [MaterialData.MatPart](../../com.ejektaflex.pewter.api.core.materials.stats/-material-data/-mat-part/index.html), and the second section is the trait identifier. |
+| [allTags](all-tags.html) | `fun allTags(vararg tags: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [armor](armor.html) | `fun armor(func: `[`ArmorCreator`](-armor-creator/index.html)`.() -> `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [armorParts](armor-parts.html) | `fun armorParts(): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)<br>Adds all armor parts to the list of parts that can be made from this material. |
+| [blockTags](block-tags.html) | `fun blockTags(vararg blo: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [blocks](blocks.html) | `fun blocks(vararg blo: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [brightness](brightness.html) | `fun brightness(f: `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)<br>Determines the brightness of the autogenerated material texture |
+| [craft](craft.html) | `fun craft(func: () -> `[`Boolean`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [defaultMetalParts](default-metal-parts.html) | `fun defaultMetalParts(): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)<br>Adds the parts that can be used to the defaults available for a standard metal tool. |
+| [fluids](fluids.html) | `fun fluids(vararg flu: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [forge](forge.html) | `fun forge(func: () -> `[`Boolean`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [ingotTags](ingot-tags.html) | `fun ingotTags(vararg ing: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)<br>Specifies some [OreDictionary](#) tags with which all items with the tag can be used to make this material, with the approx. worth of an ingot. |
+| [ingots](ingots.html) | `fun ingots(vararg ing: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)<br>Allows the material to be created from some items, worth roughly the same as an ingot. |
+| [locale](locale.html) | `fun locale(vararg pairs: `[`Pair`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-pair/index.html)`<`[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`, `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`>): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [meltsAt](melts-at.html) | `fun meltsAt(n: `[`Int`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)<br>Determines a custom melting point for the material. |
+| [noMeltRecipes](no-melt-recipes.html) | `fun noMeltRecipes(): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)<br>Disables melting recipes for this material. |
+| [nuggetTags](nugget-tags.html) | `fun nuggetTags(vararg blo: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [nuggets](nuggets.html) | `fun nuggets(vararg blo: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [oreTags](ore-tags.html) | `fun oreTags(vararg blo: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [ores](ores.html) | `fun ores(vararg blo: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [parts](parts.html) | `fun parts(vararg someParts: `[`MatPart`](../../com.ejektaflex.pewter.api.core.materials.stats/-material-data/-mat-part/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)<br>Used to determine which [parts](../../com.ejektaflex.pewter.api.core.materials.stats/-material-data/-mat-part/index.html) can be created with this material. |
+| [shininess](shininess.html) | `fun shininess(f: `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)<br>Determines the shininess (contrast) of the auto-gen material texture |
+| [tool](tool.html) | `fun tool(func: `[`ToolCreator`](-tool-creator/index.html)`.() -> `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+

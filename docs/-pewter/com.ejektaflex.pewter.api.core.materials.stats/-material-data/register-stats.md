@@ -1,5 +1,9 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.materials.stats](../index.md) / [MaterialData](index.md) / [registerStats](./register-stats.md)
+---
+title: MaterialData.registerStats - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.materials.stats](../index.html) / [MaterialData](index.html) / [registerStats](./register-stats.html)
 
 # registerStats
 
-`fun registerStats(m: Material, part: `[`MatPart`](-mat-part/index.md)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)
+`fun registerStats(m: Material, part: `[`MatPart`](-mat-part/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html)

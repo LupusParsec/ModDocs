@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core](../index.md) / [PewterModule](index.md) / [hasMetDependencies](./has-met-dependencies.md)
+---
+title: PewterModule.hasMetDependencies - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core](../index.html) / [PewterModule](index.html) / [hasMetDependencies](./has-met-dependencies.html)
 
 # hasMetDependencies
 

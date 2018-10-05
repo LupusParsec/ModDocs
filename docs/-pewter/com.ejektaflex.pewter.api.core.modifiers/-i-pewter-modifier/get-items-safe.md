@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.modifiers](../index.md) / [IPewterModifier](index.md) / [getItemsSafe](./get-items-safe.md)
+---
+title: IPewterModifier.getItemsSafe - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.modifiers](../index.html) / [IPewterModifier](index.html) / [getItemsSafe](./get-items-safe.html)
 
 # getItemsSafe
 

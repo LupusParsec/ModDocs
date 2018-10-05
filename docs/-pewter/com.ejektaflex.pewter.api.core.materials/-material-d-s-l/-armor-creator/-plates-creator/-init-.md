@@ -1,4 +1,8 @@
-[Pewter](../../../../index.md) / [com.ejektaflex.pewter.api.core.materials](../../../index.md) / [MaterialDSL](../../index.md) / [ArmorCreator](../index.md) / [PlatesCreator](index.md) / [&lt;init&gt;](./-init-.md)
+---
+title: MaterialDSL.ArmorCreator.PlatesCreator.<init> - Pewter
+---
+
+[Pewter](../../../../index.html) / [com.ejektaflex.pewter.api.core.materials](../../../index.html) / [MaterialDSL](../../index.html) / [ArmorCreator](../index.html) / [PlatesCreator](index.html) / [&lt;init&gt;](./-init-.html)
 
 # &lt;init&gt;
 

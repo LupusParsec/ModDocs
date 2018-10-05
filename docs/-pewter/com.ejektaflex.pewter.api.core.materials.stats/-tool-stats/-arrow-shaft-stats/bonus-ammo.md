@@ -1,4 +1,8 @@
-[Pewter](../../../index.md) / [com.ejektaflex.pewter.api.core.materials.stats](../../index.md) / [ToolStats](../index.md) / [ArrowShaftStats](index.md) / [bonusAmmo](./bonus-ammo.md)
+---
+title: ToolStats.ArrowShaftStats.bonusAmmo - Pewter
+---
+
+[Pewter](../../../index.html) / [com.ejektaflex.pewter.api.core.materials.stats](../../index.html) / [ToolStats](../index.html) / [ArrowShaftStats](index.html) / [bonusAmmo](./bonus-ammo.html)
 
 # bonusAmmo
 

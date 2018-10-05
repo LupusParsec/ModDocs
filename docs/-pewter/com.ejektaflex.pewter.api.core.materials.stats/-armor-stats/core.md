@@ -1,5 +1,9 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.materials.stats](../index.md) / [ArmorStats](index.md) / [core](./core.md)
+---
+title: ArmorStats.core - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.materials.stats](../index.html) / [ArmorStats](index.html) / [core](./core.html)
 
 # core
 
-`val core: `[`CoreStats`](-core-stats/index.md)
+`val core: `[`CoreStats`](-core-stats/index.html)

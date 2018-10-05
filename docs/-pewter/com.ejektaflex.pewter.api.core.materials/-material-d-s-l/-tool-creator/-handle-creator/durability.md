@@ -1,4 +1,8 @@
-[Pewter](../../../../index.md) / [com.ejektaflex.pewter.api.core.materials](../../../index.md) / [MaterialDSL](../../index.md) / [ToolCreator](../index.md) / [HandleCreator](index.md) / [durability](./durability.md)
+---
+title: MaterialDSL.ToolCreator.HandleCreator.durability - Pewter
+---
+
+[Pewter](../../../../index.html) / [com.ejektaflex.pewter.api.core.materials](../../../index.html) / [MaterialDSL](../../index.html) / [ToolCreator](../index.html) / [HandleCreator](index.html) / [durability](./durability.html)
 
 # durability
 

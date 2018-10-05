@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.materials.stats](../index.md) / [MaterialData](index.md) / [specificTraits](./specific-traits.md)
+---
+title: MaterialData.specificTraits - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.materials.stats](../index.html) / [MaterialData](index.html) / [specificTraits](./specific-traits.html)
 
 # specificTraits
 

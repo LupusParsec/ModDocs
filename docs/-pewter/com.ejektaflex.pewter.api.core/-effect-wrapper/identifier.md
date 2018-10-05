@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core](../index.md) / [EffectWrapper](index.md) / [identifier](./identifier.md)
+---
+title: EffectWrapper.identifier - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core](../index.html) / [EffectWrapper](index.html) / [identifier](./identifier.html)
 
 # identifier
 

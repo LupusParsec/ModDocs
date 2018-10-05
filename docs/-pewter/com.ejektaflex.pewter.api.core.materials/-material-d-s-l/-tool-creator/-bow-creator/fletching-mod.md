@@ -1,4 +1,8 @@
-[Pewter](../../../../index.md) / [com.ejektaflex.pewter.api.core.materials](../../../index.md) / [MaterialDSL](../../index.md) / [ToolCreator](../index.md) / [BowCreator](index.md) / [fletchingMod](./fletching-mod.md)
+---
+title: MaterialDSL.ToolCreator.BowCreator.fletchingMod - Pewter
+---
+
+[Pewter](../../../../index.html) / [com.ejektaflex.pewter.api.core.materials](../../../index.html) / [MaterialDSL](../../index.html) / [ToolCreator](../index.html) / [BowCreator](index.html) / [fletchingMod](./fletching-mod.html)
 
 # fletchingMod
 

@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.materials.stats](../index.md) / [SmeltingStats](index.md) / [ingot](./ingot.md)
+---
+title: SmeltingStats.ingot - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.materials.stats](../index.html) / [SmeltingStats](index.html) / [ingot](./ingot.html)
 
 # ingot
 

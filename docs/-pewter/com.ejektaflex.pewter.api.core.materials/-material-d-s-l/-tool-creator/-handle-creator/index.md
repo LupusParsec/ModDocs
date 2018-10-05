@@ -1,18 +1,19 @@
-[Pewter](../../../../index.md) / [com.ejektaflex.pewter.api.core.materials](../../../index.md) / [MaterialDSL](../../index.md) / [ToolCreator](../index.md) / [HandleCreator](./index.md)
+---
+title: MaterialDSL.ToolCreator.HandleCreator - Pewter
+---
+
+[Pewter](../../../../index.html) / [com.ejektaflex.pewter.api.core.materials](../../../index.html) / [MaterialDSL](../../index.html) / [ToolCreator](../index.html) / [HandleCreator](./index.html)
 
 # HandleCreator
 
-`inner class HandleCreator : `[`DSL`](../../../-d-s-l/index.md)`<`[`HandleCreator`](./index.md)`>`
+`inner class HandleCreator : `[`DSL`](../../../-d-s-l/index.html)`<`[`HandleCreator`](./index.html)`>`
 
 ### Constructors
 
-| Name | Summary |
-|---|---|
-| [&lt;init&gt;](-init-.md) | `HandleCreator()` |
+| [&lt;init&gt;](-init-.html) | `HandleCreator()` |
 
 ### Functions
 
-| Name | Summary |
-|---|---|
-| [durability](durability.md) | `fun durability(func: () -> `[`Int`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
-| [modifier](modifier.md) | `fun modifier(func: () -> `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [durability](durability.html) | `fun durability(func: () -> `[`Int`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [modifier](modifier.html) | `fun modifier(func: () -> `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+

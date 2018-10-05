@@ -1,12 +1,15 @@
-[Pewter](../index.md) / [com.ejektaflex.pewter.api.core.traits](index.md) / [IPewterToolTrait](./-i-pewter-tool-trait.md)
+---
+title: IPewterToolTrait - Pewter
+---
+
+[Pewter](../index.html) / [com.ejektaflex.pewter.api.core.traits](index.html) / [IPewterToolTrait](./-i-pewter-tool-trait.html)
 
 # IPewterToolTrait
 
-`interface IPewterToolTrait : `[`IPewterTrait`](-i-pewter-trait.md)
+`interface IPewterToolTrait : `[`IPewterTrait`](-i-pewter-trait.html)
 
 ### Inheritors
 
-| Name | Summary |
-|---|---|
-| [PewterProjectileTrait](-pewter-projectile-trait/index.md) | `open class PewterProjectileTrait : AbstractProjectileTrait, `[`IPewterToolTrait`](./-i-pewter-tool-trait.md) |
-| [PewterToolTrait](-pewter-tool-trait/index.md) | `abstract class PewterToolTrait : ModifierTrait, `[`IPewterToolTrait`](./-i-pewter-tool-trait.md) |
+| [PewterProjectileTrait](-pewter-projectile-trait/index.html) | `open class PewterProjectileTrait : AbstractProjectileTrait, `[`IPewterToolTrait`](./-i-pewter-tool-trait.html) |
+| [PewterToolTrait](-pewter-tool-trait/index.html) | `abstract class PewterToolTrait : ModifierTrait, `[`IPewterToolTrait`](./-i-pewter-tool-trait.html) |
+

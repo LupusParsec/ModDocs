@@ -1,4 +1,8 @@
-[Pewter](../../../index.md) / [com.ejektaflex.pewter.api.core.materials](../../index.md) / [MaterialDSL](../index.md) / [ToolCreator](index.md) / [&lt;init&gt;](./-init-.md)
+---
+title: MaterialDSL.ToolCreator.<init> - Pewter
+---
+
+[Pewter](../../../index.html) / [com.ejektaflex.pewter.api.core.materials](../../index.html) / [MaterialDSL](../index.html) / [ToolCreator](index.html) / [&lt;init&gt;](./-init-.html)
 
 # &lt;init&gt;
 

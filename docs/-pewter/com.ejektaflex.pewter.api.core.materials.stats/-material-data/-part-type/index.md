@@ -1,4 +1,8 @@
-[Pewter](../../../index.md) / [com.ejektaflex.pewter.api.core.materials.stats](../../index.md) / [MaterialData](../index.md) / [PartType](./index.md)
+---
+title: MaterialData.PartType - Pewter
+---
+
+[Pewter](../../../index.html) / [com.ejektaflex.pewter.api.core.materials.stats](../../index.html) / [MaterialData](../index.html) / [PartType](./index.html)
 
 # PartType
 
@@ -6,7 +10,6 @@
 
 ### Enum Values
 
-| Name | Summary |
-|---|---|
-| [TOOL](-t-o-o-l.md) |  |
-| [ARMOR](-a-r-m-o-r.md) |  |
+| [TOOL](-t-o-o-l.html) |  |
+| [ARMOR](-a-r-m-o-r.html) |  |
+

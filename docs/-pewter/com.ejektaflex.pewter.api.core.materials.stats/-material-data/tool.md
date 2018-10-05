@@ -1,5 +1,9 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.materials.stats](../index.md) / [MaterialData](index.md) / [tool](./tool.md)
+---
+title: MaterialData.tool - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.materials.stats](../index.html) / [MaterialData](index.html) / [tool](./tool.html)
 
 # tool
 
-`var tool: `[`ToolStats`](../-tool-stats/index.md)
+`var tool: `[`ToolStats`](../-tool-stats/index.html)

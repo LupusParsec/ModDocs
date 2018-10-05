@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.modifiers](../index.md) / [PewterToolModifier](index.md) / [name](./name.md)
+---
+title: PewterToolModifier.name - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.modifiers](../index.html) / [PewterToolModifier](index.html) / [name](./name.html)
 
 # name
 

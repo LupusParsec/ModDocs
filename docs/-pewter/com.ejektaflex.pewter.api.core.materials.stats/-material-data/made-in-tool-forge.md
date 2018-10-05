@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.materials.stats](../index.md) / [MaterialData](index.md) / [madeInToolForge](./made-in-tool-forge.md)
+---
+title: MaterialData.madeInToolForge - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.materials.stats](../index.html) / [MaterialData](index.html) / [madeInToolForge](./made-in-tool-forge.html)
 
 # madeInToolForge
 

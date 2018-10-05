@@ -1,4 +1,8 @@
-[Pewter](../../../index.md) / [com.ejektaflex.pewter.api.core.materials.stats](../../index.md) / [ToolStats](../index.md) / [BowStats](index.md) / [range](./range.md)
+---
+title: ToolStats.BowStats.range - Pewter
+---
+
+[Pewter](../../../index.html) / [com.ejektaflex.pewter.api.core.materials.stats](../../index.html) / [ToolStats](../index.html) / [BowStats](index.html) / [range](./range.html)
 
 # range
 

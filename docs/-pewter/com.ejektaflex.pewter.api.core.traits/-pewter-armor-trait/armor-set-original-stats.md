@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.traits](../index.md) / [PewterArmorTrait](index.md) / [armorSetOriginalStats](./armor-set-original-stats.md)
+---
+title: PewterArmorTrait.armorSetOriginalStats - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.traits](../index.html) / [PewterArmorTrait](index.html) / [armorSetOriginalStats](./armor-set-original-stats.html)
 
 # armorSetOriginalStats
 

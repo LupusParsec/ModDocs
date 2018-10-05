@@ -1,4 +1,8 @@
-[Pewter](../../../../index.md) / [com.ejektaflex.pewter.api.core.materials](../../../index.md) / [MaterialDSL](../../index.md) / [ToolCreator](../index.md) / [ShaftCreator](index.md) / [modifier](./modifier.md)
+---
+title: MaterialDSL.ToolCreator.ShaftCreator.modifier - Pewter
+---
+
+[Pewter](../../../../index.html) / [com.ejektaflex.pewter.api.core.materials](../../../index.html) / [MaterialDSL](../../index.html) / [ToolCreator](../index.html) / [ShaftCreator](index.html) / [modifier](./modifier.html)
 
 # modifier
 

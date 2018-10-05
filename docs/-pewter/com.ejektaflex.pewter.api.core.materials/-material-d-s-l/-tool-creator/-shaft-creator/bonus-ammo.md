@@ -1,4 +1,8 @@
-[Pewter](../../../../index.md) / [com.ejektaflex.pewter.api.core.materials](../../../index.md) / [MaterialDSL](../../index.md) / [ToolCreator](../index.md) / [ShaftCreator](index.md) / [bonusAmmo](./bonus-ammo.md)
+---
+title: MaterialDSL.ToolCreator.ShaftCreator.bonusAmmo - Pewter
+---
+
+[Pewter](../../../../index.html) / [com.ejektaflex.pewter.api.core.materials](../../../index.html) / [MaterialDSL](../../index.html) / [ToolCreator](../index.html) / [ShaftCreator](index.html) / [bonusAmmo](./bonus-ammo.html)
 
 # bonusAmmo
 

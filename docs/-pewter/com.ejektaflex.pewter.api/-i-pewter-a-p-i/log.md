@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api](../index.md) / [IPewterAPI](index.md) / [log](./log.md)
+---
+title: IPewterAPI.log - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api](../index.html) / [IPewterAPI](index.html) / [log](./log.html)
 
 # log
 

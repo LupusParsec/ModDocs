@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.materials.stats](../index.md) / [ArmorStats](./index.md)
+---
+title: ArmorStats - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.materials.stats](../index.html) / [ArmorStats](./index.html)
 
 # ArmorStats
 
@@ -6,22 +10,17 @@
 
 ### Types
 
-| Name | Summary |
-|---|---|
-| [CoreStats](-core-stats/index.md) | `data class CoreStats` |
-| [PlatesStats](-plates-stats/index.md) | `data class PlatesStats` |
-| [TrimStats](-trim-stats/index.md) | `data class TrimStats` |
+| [CoreStats](-core-stats/index.html) | `data class CoreStats` |
+| [PlatesStats](-plates-stats/index.html) | `data class PlatesStats` |
+| [TrimStats](-trim-stats/index.html) | `data class TrimStats` |
 
 ### Constructors
 
-| Name | Summary |
-|---|---|
-| [&lt;init&gt;](-init-.md) | `ArmorStats()` |
+| [&lt;init&gt;](-init-.html) | `ArmorStats()` |
 
 ### Properties
 
-| Name | Summary |
-|---|---|
-| [core](core.md) | `val core: `[`CoreStats`](-core-stats/index.md) |
-| [plates](plates.md) | `val plates: `[`PlatesStats`](-plates-stats/index.md) |
-| [trim](trim.md) | `val trim: `[`TrimStats`](-trim-stats/index.md) |
+| [core](core.html) | `val core: `[`CoreStats`](-core-stats/index.html) |
+| [plates](plates.html) | `val plates: `[`PlatesStats`](-plates-stats/index.html) |
+| [trim](trim.html) | `val trim: `[`TrimStats`](-trim-stats/index.html) |
+

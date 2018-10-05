@@ -1,4 +1,8 @@
-[Pewter](../../../index.md) / [com.ejektaflex.pewter.api.core.materials](../../index.md) / [MaterialDSL](../index.md) / [NestedDSL](./index.md)
+---
+title: MaterialDSL.NestedDSL - Pewter
+---
+
+[Pewter](../../../index.html) / [com.ejektaflex.pewter.api.core.materials](../../index.html) / [MaterialDSL](../index.html) / [NestedDSL](./index.html)
 
 # NestedDSL
 
@@ -6,6 +10,5 @@
 
 ### Constructors
 
-| Name | Summary |
-|---|---|
-| [&lt;init&gt;](-init-.md) | `NestedDSL()` |
+| [&lt;init&gt;](-init-.html) | `NestedDSL()` |
+

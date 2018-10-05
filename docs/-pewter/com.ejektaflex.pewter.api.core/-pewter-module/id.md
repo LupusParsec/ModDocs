@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core](../index.md) / [PewterModule](index.md) / [id](./id.md)
+---
+title: PewterModule.id - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core](../index.html) / [PewterModule](index.html) / [id](./id.html)
 
 # id
 

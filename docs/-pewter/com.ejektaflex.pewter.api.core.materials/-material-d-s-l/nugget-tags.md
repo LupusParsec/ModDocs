@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.materials](../index.md) / [MaterialDSL](index.md) / [nuggetTags](./nugget-tags.md)
+---
+title: MaterialDSL.nuggetTags - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.materials](../index.html) / [MaterialDSL](index.html) / [nuggetTags](./nugget-tags.html)
 
 # nuggetTags
 

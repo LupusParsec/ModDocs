@@ -1,4 +1,8 @@
-[Pewter](../../../index.md) / [com.ejektaflex.pewter.api.core.materials.stats](../../index.md) / [ToolStats](../index.md) / [HeadStats](index.md) / [harvestLevel](./harvest-level.md)
+---
+title: ToolStats.HeadStats.harvestLevel - Pewter
+---
+
+[Pewter](../../../index.html) / [com.ejektaflex.pewter.api.core.materials.stats](../../index.html) / [ToolStats](../index.html) / [HeadStats](index.html) / [harvestLevel](./harvest-level.html)
 
 # harvestLevel
 

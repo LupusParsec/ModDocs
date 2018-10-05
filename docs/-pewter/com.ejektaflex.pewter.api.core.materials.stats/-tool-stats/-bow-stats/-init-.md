@@ -1,4 +1,8 @@
-[Pewter](../../../index.md) / [com.ejektaflex.pewter.api.core.materials.stats](../../index.md) / [ToolStats](../index.md) / [BowStats](index.md) / [&lt;init&gt;](./-init-.md)
+---
+title: ToolStats.BowStats.<init> - Pewter
+---
+
+[Pewter](../../../index.html) / [com.ejektaflex.pewter.api.core.materials.stats](../../index.html) / [ToolStats](../index.html) / [BowStats](index.html) / [&lt;init&gt;](./-init-.html)
 
 # &lt;init&gt;
 

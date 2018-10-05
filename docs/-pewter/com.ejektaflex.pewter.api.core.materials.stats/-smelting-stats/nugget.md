@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.materials.stats](../index.md) / [SmeltingStats](index.md) / [nugget](./nugget.md)
+---
+title: SmeltingStats.nugget - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.materials.stats](../index.html) / [SmeltingStats](index.html) / [nugget](./nugget.html)
 
 # nugget
 

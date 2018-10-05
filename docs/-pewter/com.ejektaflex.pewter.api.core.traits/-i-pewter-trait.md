@@ -1,12 +1,15 @@
-[Pewter](../index.md) / [com.ejektaflex.pewter.api.core.traits](index.md) / [IPewterTrait](./-i-pewter-trait.md)
+---
+title: IPewterTrait - Pewter
+---
+
+[Pewter](../index.html) / [com.ejektaflex.pewter.api.core.traits](index.html) / [IPewterTrait](./-i-pewter-trait.html)
 
 # IPewterTrait
 
-`interface IPewterTrait : `[`IPewterBaseEffect`](../com.ejektaflex.pewter.api.core/-i-pewter-base-effect.md)
+`interface IPewterTrait : `[`IPewterBaseEffect`](../com.ejektaflex.pewter.api.core/-i-pewter-base-effect.html)
 
 ### Inheritors
 
-| Name | Summary |
-|---|---|
-| [IPewterArmorTrait](-i-pewter-armor-trait.md) | `interface IPewterArmorTrait : `[`IPewterTrait`](./-i-pewter-trait.md) |
-| [IPewterToolTrait](-i-pewter-tool-trait.md) | `interface IPewterToolTrait : `[`IPewterTrait`](./-i-pewter-trait.md) |
+| [IPewterArmorTrait](-i-pewter-armor-trait.html) | `interface IPewterArmorTrait : `[`IPewterTrait`](./-i-pewter-trait.html) |
+| [IPewterToolTrait](-i-pewter-tool-trait.html) | `interface IPewterToolTrait : `[`IPewterTrait`](./-i-pewter-trait.html) |
+

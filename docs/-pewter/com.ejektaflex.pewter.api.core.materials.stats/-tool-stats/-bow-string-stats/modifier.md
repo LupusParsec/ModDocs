@@ -1,4 +1,8 @@
-[Pewter](../../../index.md) / [com.ejektaflex.pewter.api.core.materials.stats](../../index.md) / [ToolStats](../index.md) / [BowStringStats](index.md) / [modifier](./modifier.md)
+---
+title: ToolStats.BowStringStats.modifier - Pewter
+---
+
+[Pewter](../../../index.html) / [com.ejektaflex.pewter.api.core.materials.stats](../../index.html) / [ToolStats](../index.html) / [BowStringStats](index.html) / [modifier](./modifier.html)
 
 # modifier
 

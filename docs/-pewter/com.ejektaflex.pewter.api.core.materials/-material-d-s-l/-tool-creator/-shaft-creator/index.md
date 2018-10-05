@@ -1,18 +1,19 @@
-[Pewter](../../../../index.md) / [com.ejektaflex.pewter.api.core.materials](../../../index.md) / [MaterialDSL](../../index.md) / [ToolCreator](../index.md) / [ShaftCreator](./index.md)
+---
+title: MaterialDSL.ToolCreator.ShaftCreator - Pewter
+---
+
+[Pewter](../../../../index.html) / [com.ejektaflex.pewter.api.core.materials](../../../index.html) / [MaterialDSL](../../index.html) / [ToolCreator](../index.html) / [ShaftCreator](./index.html)
 
 # ShaftCreator
 
-`inner class ShaftCreator : `[`DSL`](../../../-d-s-l/index.md)`<`[`ShaftCreator`](./index.md)`>`
+`inner class ShaftCreator : `[`DSL`](../../../-d-s-l/index.html)`<`[`ShaftCreator`](./index.html)`>`
 
 ### Constructors
 
-| Name | Summary |
-|---|---|
-| [&lt;init&gt;](-init-.md) | `ShaftCreator()` |
+| [&lt;init&gt;](-init-.html) | `ShaftCreator()` |
 
 ### Functions
 
-| Name | Summary |
-|---|---|
-| [bonusAmmo](bonus-ammo.md) | `fun bonusAmmo(func: () -> `[`Int`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
-| [modifier](modifier.md) | `fun modifier(func: () -> `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [bonusAmmo](bonus-ammo.html) | `fun bonusAmmo(func: () -> `[`Int`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [modifier](modifier.html) | `fun modifier(func: () -> `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+

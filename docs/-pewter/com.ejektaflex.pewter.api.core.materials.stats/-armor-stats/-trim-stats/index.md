@@ -1,4 +1,8 @@
-[Pewter](../../../index.md) / [com.ejektaflex.pewter.api.core.materials.stats](../../index.md) / [ArmorStats](../index.md) / [TrimStats](./index.md)
+---
+title: ArmorStats.TrimStats - Pewter
+---
+
+[Pewter](../../../index.html) / [com.ejektaflex.pewter.api.core.materials.stats](../../index.html) / [ArmorStats](../index.html) / [TrimStats](./index.html)
 
 # TrimStats
 
@@ -6,12 +10,9 @@
 
 ### Constructors
 
-| Name | Summary |
-|---|---|
-| [&lt;init&gt;](-init-.md) | `TrimStats(extraDurability: `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html)` = 0f)` |
+| [&lt;init&gt;](-init-.html) | `TrimStats(extraDurability: `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html)` = 0f)` |
 
 ### Properties
 
-| Name | Summary |
-|---|---|
-| [extraDurability](extra-durability.md) | `var extraDurability: `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html) |
+| [extraDurability](extra-durability.html) | `var extraDurability: `[`Float`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-float/index.html) |
+

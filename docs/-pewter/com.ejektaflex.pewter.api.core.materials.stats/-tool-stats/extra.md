@@ -1,5 +1,9 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.materials.stats](../index.md) / [ToolStats](index.md) / [extra](./extra.md)
+---
+title: ToolStats.extra - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.materials.stats](../index.html) / [ToolStats](index.html) / [extra](./extra.html)
 
 # extra
 
-`val extra: `[`ExtraStats`](-extra-stats/index.md)
+`val extra: `[`ExtraStats`](-extra-stats/index.html)

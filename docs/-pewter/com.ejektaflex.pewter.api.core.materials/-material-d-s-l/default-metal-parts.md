@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.materials](../index.md) / [MaterialDSL](index.md) / [defaultMetalParts](./default-metal-parts.md)
+---
+title: MaterialDSL.defaultMetalParts - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.materials](../index.html) / [MaterialDSL](index.html) / [defaultMetalParts](./default-metal-parts.html)
 
 # defaultMetalParts
 

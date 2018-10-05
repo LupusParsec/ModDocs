@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.traits](../index.md) / [PewterToolTrait](index.md) / [statsOf](./stats-of.md)
+---
+title: PewterToolTrait.statsOf - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.traits](../index.html) / [PewterToolTrait](index.html) / [statsOf](./stats-of.html)
 
 # statsOf
 

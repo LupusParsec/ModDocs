@@ -1,17 +1,18 @@
-[Pewter](../../../../index.md) / [com.ejektaflex.pewter.api.core.materials](../../../index.md) / [MaterialDSL](../../index.md) / [ToolCreator](../index.md) / [ExtraCreator](./index.md)
+---
+title: MaterialDSL.ToolCreator.ExtraCreator - Pewter
+---
+
+[Pewter](../../../../index.html) / [com.ejektaflex.pewter.api.core.materials](../../../index.html) / [MaterialDSL](../../index.html) / [ToolCreator](../index.html) / [ExtraCreator](./index.html)
 
 # ExtraCreator
 
-`inner class ExtraCreator : `[`DSL`](../../../-d-s-l/index.md)`<`[`ExtraCreator`](./index.md)`>`
+`inner class ExtraCreator : `[`DSL`](../../../-d-s-l/index.html)`<`[`ExtraCreator`](./index.html)`>`
 
 ### Constructors
 
-| Name | Summary |
-|---|---|
-| [&lt;init&gt;](-init-.md) | `ExtraCreator()` |
+| [&lt;init&gt;](-init-.html) | `ExtraCreator()` |
 
 ### Functions
 
-| Name | Summary |
-|---|---|
-| [durability](durability.md) | `fun durability(func: () -> `[`Int`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+| [durability](durability.html) | `fun durability(func: () -> `[`Int`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html)`): `[`Unit`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-unit/index.html) |
+

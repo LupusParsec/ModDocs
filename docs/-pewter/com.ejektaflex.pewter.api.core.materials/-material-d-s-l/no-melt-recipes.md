@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.materials](../index.md) / [MaterialDSL](index.md) / [noMeltRecipes](./no-melt-recipes.md)
+---
+title: MaterialDSL.noMeltRecipes - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.materials](../index.html) / [MaterialDSL](index.html) / [noMeltRecipes](./no-melt-recipes.html)
 
 # noMeltRecipes
 

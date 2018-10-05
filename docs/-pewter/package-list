@@ -1,5 +1,5 @@
-$dokka.format:gfm
-$dokka.linkExtension:md
+$dokka.format:jekyll
+$dokka.linkExtension:html
 
 com.ejektaflex.pewter.api
 com.ejektaflex.pewter.api.core

@@ -1,4 +1,8 @@
-[Pewter](../../../index.md) / [com.ejektaflex.pewter.api.core.materials.stats](../../index.md) / [SmeltingStats](../index.md) / [SmeltingType](index.md) / [BLOCK](./-b-l-o-c-k.md)
+---
+title: SmeltingStats.SmeltingType.BLOCK - Pewter
+---
+
+[Pewter](../../../index.html) / [com.ejektaflex.pewter.api.core.materials.stats](../../index.html) / [SmeltingStats](../index.html) / [SmeltingType](index.html) / [BLOCK](./-b-l-o-c-k.html)
 
 # BLOCK
 
@@ -6,7 +10,6 @@
 
 ### Inherited Properties
 
-| Name | Summary |
-|---|---|
-| [amount](amount.md) | `val amount: `[`Int`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html) |
-| [getter](getter.md) | `val getter: `[`SmeltingStats`](../index.md)`.() -> `[`MutableList`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-mutable-list/index.html)`<`[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`>` |
+| [amount](amount.html) | `val amount: `[`Int`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html) |
+| [getter](getter.html) | `val getter: `[`SmeltingStats`](../index.html)`.() -> `[`MutableList`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-mutable-list/index.html)`<`[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`>` |
+

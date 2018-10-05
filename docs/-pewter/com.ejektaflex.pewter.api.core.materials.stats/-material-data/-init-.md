@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.materials.stats](../index.md) / [MaterialData](index.md) / [&lt;init&gt;](./-init-.md)
+---
+title: MaterialData.<init> - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.materials.stats](../index.html) / [MaterialData](index.html) / [&lt;init&gt;](./-init-.html)
 
 # &lt;init&gt;
 

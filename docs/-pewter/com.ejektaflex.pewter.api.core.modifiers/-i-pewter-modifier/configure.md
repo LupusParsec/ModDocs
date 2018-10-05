@@ -1,4 +1,8 @@
-[Pewter](../../index.md) / [com.ejektaflex.pewter.api.core.modifiers](../index.md) / [IPewterModifier](index.md) / [configure](./configure.md)
+---
+title: IPewterModifier.configure - Pewter
+---
+
+[Pewter](../../index.html) / [com.ejektaflex.pewter.api.core.modifiers](../index.html) / [IPewterModifier](index.html) / [configure](./configure.html)
 
 # configure
 
